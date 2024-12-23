@@ -1,0 +1,10 @@
+.user-name-box {
+    border: 2px solid #ddd;
+    border-radius: 15px;
+    padding: 10px 20px;
+    display: inline-block;
+    background-color: #f9f9f9;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
